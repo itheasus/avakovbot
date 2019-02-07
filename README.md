@@ -1,2 +1,2 @@
-# avakovbot
-Avakovbot
+# telegram-victorine-bot
+A fun bot
