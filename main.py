@@ -5,7 +5,7 @@ import datetime
 import sqlite3
 from bot_id import TOKEN
 
-TOKEN = TOKEN
+TOKEN = 484444807:AAHsPqXI_BVdZStvFfofxSO6GNWRsMcdwZk
 updater = Updater(token=TOKEN)
 job = updater.job_queue
 dispatcher = updater.dispatcher
